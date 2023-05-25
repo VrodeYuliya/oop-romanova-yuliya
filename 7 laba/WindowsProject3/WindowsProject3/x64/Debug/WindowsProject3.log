@@ -1,0 +1,15 @@
+﻿  WindowsProject3.cpp
+C:\Users\miron\Desktop\OOP-Rumynin-main\7 laba\WindowsProject3\WindowsProject3\WindowsProject3.cpp(199,28): warning C4244: аргумент: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\miron\Desktop\OOP-Rumynin-main\7 laba\WindowsProject3\WindowsProject3\WindowsProject3.cpp(217,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\miron\Desktop\OOP-Rumynin-main\7 laba\WindowsProject3\WindowsProject3\WindowsProject3.cpp(218,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\miron\Desktop\OOP-Rumynin-main\7 laba\WindowsProject3\WindowsProject3\WindowsProject3.cpp(219,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\miron\Desktop\OOP-Rumynin-main\7 laba\WindowsProject3\WindowsProject3\WindowsProject3.cpp(220,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\miron\Desktop\OOP-Rumynin-main\7 laba\WindowsProject3\WindowsProject3\WindowsProject3.cpp(226,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\miron\Desktop\OOP-Rumynin-main\7 laba\WindowsProject3\WindowsProject3\WindowsProject3.cpp(227,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\miron\Desktop\OOP-Rumynin-main\7 laba\WindowsProject3\WindowsProject3\WindowsProject3.cpp(228,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\miron\Desktop\OOP-Rumynin-main\7 laba\WindowsProject3\WindowsProject3\WindowsProject3.cpp(229,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\miron\Desktop\OOP-Rumynin-main\7 laba\WindowsProject3\WindowsProject3\WindowsProject3.cpp(263,20): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\miron\Desktop\OOP-Rumynin-main\7 laba\WindowsProject3\WindowsProject3\WindowsProject3.cpp(264,20): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\miron\Desktop\OOP-Rumynin-main\7 laba\WindowsProject3\WindowsProject3\WindowsProject3.cpp(275,20): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\miron\Desktop\OOP-Rumynin-main\7 laba\WindowsProject3\WindowsProject3\WindowsProject3.cpp(276,20): warning C4244: =: преобразование "double" в "LONG", возможна потеря данных
+  WindowsProject3.vcxproj -> C:\Users\miron\Desktop\OOP-Rumynin-main\7 laba\WindowsProject3\x64\Debug\WindowsProject3.exe
